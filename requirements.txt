@@ -1,0 +1,2 @@
+# Dependências mínimas para Mapeador de Habilidades
+pyyaml>=6.0
